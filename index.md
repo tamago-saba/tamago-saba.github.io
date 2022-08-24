@@ -16,7 +16,7 @@ title: ホーム
 
 ## Information
 
-- [ルール](rule/index.md)
+- [ルール](rules/index.md)
 - [サーバーの紹介](servers/index.md)
 
 ## Links
