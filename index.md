@@ -18,6 +18,7 @@ title: ホーム
 
 - [ルール](rules/index.md)
 - [サーバーの紹介](servers/index.md)
+- [プラグインの使い方](https://sites.google.com/view/tamago-saba/plugin-usage)
 
 ## Links
 
