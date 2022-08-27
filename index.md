@@ -16,10 +16,22 @@ title: ホーム
 
 ## Information
 
-- [ルール](rules/index.md)
-- [サーバーの紹介](servers/index.md)
+- [ルール](docs/rules.md)
+- [サーバーの紹介](docs/servers.md)
 - [プラグインの使い方](https://sites.google.com/view/tamago-saba/plugin-usage)
 - [本サイトの更新履歴](https://github.com/tamago-saba/tamago-saba.github.io/commits/main)
+
+## Posts
+
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y/%m/%d" }}
+    </li>
+  {% endfor %}
+</ul>
+
+- [記事一覧](docs/posts.md)
 
 ## Links
 

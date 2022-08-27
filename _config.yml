@@ -1,6 +1,9 @@
 title: たまご鯖
 description: サバイバルを中心としたMinecraftサーバーのコミュニティ
 repository: tamago-saba/tamago-saba.github.io
+author: ぬっち
+
+excerpt_separator: <!--more-->
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
