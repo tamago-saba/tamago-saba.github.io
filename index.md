@@ -19,6 +19,7 @@ title: ホーム
 - [ルール](rules/index.md)
 - [サーバーの紹介](servers/index.md)
 - [プラグインの使い方](https://sites.google.com/view/tamago-saba/plugin-usage)
+- [本サイトの更新履歴](https://github.com/tamago-saba/tamago-saba.github.io/commits/main)
 
 ## Links
 
