@@ -9,7 +9,7 @@ permalink: /posts/
 サーバー管理人が気まぐれで投稿する記事の一覧です。
 
 <ul>
-  {% for post in site.posts limit:5 %}
+  {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y/%m/%d" }}
       {{ post.excerpt }}
