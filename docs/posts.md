@@ -7,6 +7,7 @@ permalink: /posts/
 # 記事一覧
 
 サーバー管理人が気まぐれで投稿する記事の一覧です。
+<!--more-->
 
 <ul>
   {% for post in site.posts %}
