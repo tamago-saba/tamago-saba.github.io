@@ -1,3 +1,9 @@
+---
+layout: default
+title: サーバーの紹介
+permalink: /servers/
+---
+
 # サーバーの紹介
 
 ## HUB

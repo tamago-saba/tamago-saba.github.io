@@ -1,3 +1,9 @@
+---
+layout: default
+title: ルール
+permalink: /rules/
+---
+
 # ルール <!-- omit in toc -->
 
 プレイヤーの皆様に気持ち良くサーバーをご利用頂くため、ルールの確認・遵守をお願い致します。<br>
