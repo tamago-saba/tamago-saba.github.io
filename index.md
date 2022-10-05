@@ -1,6 +1,11 @@
 ---
 layout: default
 title: ホーム
+image:
+  path: /assets/img/tamago-saba.png
+  height: 720
+  width: 1280
+  alt: たまご鯖
 ---
 
 ![image](https://cdn.discordapp.com/attachments/962216466076291092/1010557165787943023/2022-08-18_12.27.41.png)
