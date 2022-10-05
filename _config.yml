@@ -5,6 +5,9 @@ locale: ja_JP
 
 repository: tamago-saba/tamago-saba.github.io
 
+github:
+  is_project_page: false
+  is_user_page: false
 
 excerpt_separator: <!--more-->
 
