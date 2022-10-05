@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BUMPレベルシステム導入
+author: ぬっち
 ---
 
 Discordサーバーにて、DISBOARDのコマンド(`/bump`)を打つと回数や頻度に応じてEXPなどが付与されるシステムを導入しました！<br>
