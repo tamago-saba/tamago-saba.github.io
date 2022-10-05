@@ -17,3 +17,12 @@ plugins:
   - jekyll-sitemap
 
 timezone: Asia/Tokyo
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: ぬっち
