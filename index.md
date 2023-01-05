@@ -8,7 +8,7 @@ image:
   alt: たまご鯖
 ---
 
-![image](https://cdn.discordapp.com/attachments/962216466076291092/1010557165787943023/2022-08-18_12.27.41.png)
+![image](https://cdn.discordapp.com/attachments/791256878239318029/1060547061520551966/2022-12-25_22.10.03.png)
 
 <p style="text-align: center;">
 2種類のサバイバルサーバーでプレーしたり、運営主催のイベントに参加したり
