@@ -55,7 +55,30 @@ MinecraftサーバーとDiscordサーバーの、一方のルールを違反し�
 
 #### Modについて
 
-メインサーバーやバニラサーバーなどのサバイバルモードのサーバーでは、[OptiFine](https://optifine.net)のみ使用することができます。
+メインサーバーやバニラサーバーなどのサバイバルモードのサーバーで使用することのできるModは下記の通りです。
+
+##### メインサーバー
+
+- [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
+- [OptiFine](https://optifine.net)
+- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
+- [Fabric](https://fabricmc.net/)
+- [Mod Menu](https://modrinth.com/mod/modmenu)
+- [Sodium](https://modrinth.com/mod/sodium)
+- [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)
+- [Iris Shaders](https://irisshaders.dev/download)
+- [Zoomify](https://modrinth.com/mod/zoomify/)
+- [Continuity](https://modrinth.com/mod/continuity)
+- [Indium](https://modrinth.com/mod/indium/)
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights/)
+- [Lithium](https://modrinth.com/mod/lithium/)
+- [Entity Culling](https://modrinth.com/mod/entityculling/)
+- [More Culling](https://modrinth.com/mod/moreculling/)
+- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix/)
+
+##### バニラサーバー
+
+- [OptiFine](https://optifine.net)
 
 ### メインサーバー特有のルール
 
