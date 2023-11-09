@@ -45,4 +45,4 @@ image:
 - [Wiki](https://wiki.tamago-saba.com)
 - [Japan Minecraft Servers](https://minecraft.jp/servers/play.tamago-saba.com)
 - [GitHub](https://github.com/tamago-saba)
-- [YouTube](https://www.youtube.com/channel/UCLyRcPT4LbzW6bTJ3bw2yjQ)
+- [YouTube](https://www.youtube.com/@tamago-saba)
