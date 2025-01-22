@@ -21,7 +21,7 @@ image:
 ## Information
 
 - [ルール](docs/rules.md)
-- [記事一覧](docs/posts.md)
+- [サーバーの仕様](docs/specs.md)
 
 ## Links
 
@@ -29,5 +29,3 @@ image:
 - [Dynmap (ワールドマップ)](https://map.tamago-saba.com)
 - [GitHub](https://github.com/tamago-saba)
 - [Japan Minecraft Servers](https://minecraft.jp/servers/play.tamago-saba.com)
-- [YouTube](https://www.youtube.com/@tamago-saba)
-- [たまご鯖wiki](https://wiki.tamago-saba.com)
