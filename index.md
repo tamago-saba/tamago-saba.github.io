@@ -23,6 +23,6 @@ image:
 ## Links
 
 - [Discord](https://discord.gg/eVGqDxrsmv)
-- [Dynmap (ワールドマップ)](https://map.tamago-saba.com)
+- [Dynmap (ワールドマップ)](https://maps.tamago-saba.com)
 - [GitHub](https://github.com/tamago-saba)
 - [Japan Minecraft Servers](https://minecraft.jp/servers/play.tamago-saba.com)
