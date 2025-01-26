@@ -11,15 +11,12 @@ image:
 ![top](/assets/img/tamago-saba.png)
 
 <p style="text-align: center;">
-完全バニラのサーバーでサバイバル生活
+シンプルなMinecraftサーバーでサバイバル生活
 </p>
-
-## Address
-
-`play.tamago-saba.com` (統合版のポート番号は `19132`)
 
 ## Information
 
+- [参加方法](docs/how-to-join.md)
 - [ルール](docs/rules.md)
 - [サーバーの仕様](docs/specs.md)
 
