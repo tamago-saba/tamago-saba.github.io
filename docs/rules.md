@@ -36,22 +36,27 @@ MinecraftサーバーとDiscordサーバーの、一方のルールを違反し�
 
 サーバーで使用することのできるModは下記の通りです。ただし、ModサーバーについてはDiscordサーバー内の情報を参照してください。
 
-- [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
-- [OptiFine](https://optifine.net)
-- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
-- [Fabric](https://fabricmc.net/)
-- [Mod Menu](https://modrinth.com/mod/modmenu)
-- [Sodium](https://modrinth.com/mod/sodium)
-- [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)
-- [Iris Shaders](https://irisshaders.dev/download)
-- [Zoomify](https://modrinth.com/mod/zoomify/)
+- [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [Continuity](https://modrinth.com/mod/continuity)
+- [Entity Culling](https://modrinth.com/mod/entityculling/)
+- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+- [Fabric](https://fabricmc.net/)
 - [Indium](https://modrinth.com/mod/indium/)
+- [Iris Shaders](https://irisshaders.dev/download)
+- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights/)
 - [Lithium](https://modrinth.com/mod/lithium/)
-- [Entity Culling](https://modrinth.com/mod/entityculling/)
-- [More Culling](https://modrinth.com/mod/moreculling/)
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix/)
+- [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
+- [Mod Menu](https://modrinth.com/mod/modmenu)
+- [More Culling](https://modrinth.com/mod/moreculling/)
+- [OptiFine](https://optifine.net)
+- [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)
+- [Sodium](https://modrinth.com/mod/sodium)
+- [VulkanMod](https://modrinth.com/mod/vulkanmod)
+- [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)
+- [Zoomify](https://modrinth.com/mod/zoomify/)
 
 また、下記に当てはまるものは使用してはいけません。
 
